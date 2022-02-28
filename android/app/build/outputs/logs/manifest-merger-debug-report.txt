@@ -10,6 +10,7 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] C:\Users\Techge
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] C:\Users\Techgeeks\.gradle\caches\transforms-3\d1f78a3bfe608333c8a8682ec4347618\transformed\jetified-flipper-fresco-plugin-0.99.0\AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-safe-area-context] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.67.3] C:\Users\Techgeeks\.gradle\caches\transforms-3\92ad874927ba6226f66e1447581633a4\transformed\jetified-react-native-0.67.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techgeeks\.gradle\caches\transforms-3\2440439db2f6d9d5f76a90648980e461\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\Techgeeks\.gradle\caches\transforms-3\b825e962adf445255b97861e91a2a884\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
@@ -166,6 +167,8 @@ MERGED from [:react-native-safe-area-context] C:\Users\Techgeeks\React_Native\Ma
 MERGED from [:react-native-safe-area-context] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\Techgeeks\React_Native\MainZinEdu\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.3] C:\Users\Techgeeks\.gradle\caches\transforms-3\92ad874927ba6226f66e1447581633a4\transformed\jetified-react-native-0.67.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.3] C:\Users\Techgeeks\.gradle\caches\transforms-3\92ad874927ba6226f66e1447581633a4\transformed\jetified-react-native-0.67.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techgeeks\.gradle\caches\transforms-3\2440439db2f6d9d5f76a90648980e461\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
